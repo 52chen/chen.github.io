@@ -5,7 +5,7 @@
 # 陈贤文的相关博客地址
 
   - [大陆的博客园](https://www.cnblogs.com/shewhen/)
-  - 墙外的博客园(https://shewhen.blogspot.com/)
+  - [墙外的博客园](https://shewhen.blogspot.com/)  (需要科学上网)
 
 #           春江花月夜
                                   唐·张若虚
