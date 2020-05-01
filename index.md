@@ -1,4 +1,4 @@
-# 欢迎来到陈贤文的博客引导地址
+# 欢迎来到博客引导
 
 ## welcome to the imsalt's blog,thanks everyone !
 
